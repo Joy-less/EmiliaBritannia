@@ -1,6 +1,6 @@
 # Emilia Britannia
 
-<img src="EmiliaBritanniaIcon.jpg" height=300>
+<img src="Assets/EmiliaBritanniaIcon.jpg" height=300>
 
 ## Introduction
 
@@ -16,25 +16,25 @@ Emilia has short, purple hair with bangs and a black headband. She wears a schoo
 
 ## Anime Style
 
-<img src="EmiliaBritanniaAnime.jpg" height=704>
+<img src="Assets/EmiliaBritanniaAnime.jpg" height=704>
 
 Emilia innocently waves a large British flag.
 
 ## Anime Style (Alternate 1)
 
-<img src="EmiliaBritanniaAnime2.jpg" height=704>
+<img src="Assets/EmiliaBritanniaAnime2.jpg" height=704>
 
 Emilia snarkily waves a small British flag.
 
 ## Anime Style (Alternate 2)
 
-<img src="EmiliaBritanniaAnime3.jpg" height=704>
+<img src="Assets/EmiliaBritanniaAnime3.jpg" height=704>
 
 Emilia in a delinquent style.
 
 ## Pixel Art Style
 
-<img src="EmiliaBritanniaPixelArt10X.png" height=640>
+<img src="Assets/EmiliaBritanniaPixelArt10X.png" height=640>
 
 Emilia in a 32x64 pixel art style.
 Contains the official colour codes for each part of her appearance.
